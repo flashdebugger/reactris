@@ -1,3 +1,3 @@
 # Reactris
 
-_Fantastic Game_
+_Fantastic Game_ in React
